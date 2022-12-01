@@ -18,5 +18,8 @@ Welcome to the Color-Game
 # Live server to check this out!
 https://anupam-coder.github.io/ColorGame/
 
+![image](https://user-images.githubusercontent.com/71912675/205042192-5318c795-5673-4c5b-b67b-d00aa7669fd8.png)
+
+
 # Thank you for showing up :)
 
